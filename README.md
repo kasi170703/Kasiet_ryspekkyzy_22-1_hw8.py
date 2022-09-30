@@ -1,0 +1,1 @@
+# Kasiet_ryspekkyzy_22-1_hw8.py
